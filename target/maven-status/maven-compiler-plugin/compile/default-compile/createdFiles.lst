@@ -1,0 +1,4 @@
+com\projectname\qa\base\Testbase.class
+com\projectname\qa\Pages\RegistrationPage.class
+com\projectname\qa\Pages\Loginpage.class
+com\projectname\qa\utilities\JSUtils.class
